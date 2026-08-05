@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Ledger icon">
+  <rect width="128" height="128" rx="22" fill="#1f2d3d"/>
+  <rect x="22" y="22" width="84" height="84" rx="14" fill="#f2f5f9"/>
+  <path d="M42 44h26c10.493 0 19 8.507 19 19s-8.507 19-19 19H42z" fill="#2e5fa3"/>
+  <path d="M42 44v40" stroke="#f2f5f9" stroke-width="10" stroke-linecap="round"/>
+  <path d="M56 60h19" stroke="#f2f5f9" stroke-width="8" stroke-linecap="round"/>
+  <path d="M56 78h14" stroke="#f2f5f9" stroke-width="8" stroke-linecap="round"/>
+</svg>
