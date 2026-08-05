@@ -1,8 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Ledger icon">
-  <rect width="128" height="128" rx="22" fill="#1f2d3d"/>
-  <rect x="22" y="22" width="84" height="84" rx="14" fill="#f2f5f9"/>
-  <path d="M42 44h26c10.493 0 19 8.507 19 19s-8.507 19-19 19H42z" fill="#2e5fa3"/>
-  <path d="M42 44v40" stroke="#f2f5f9" stroke-width="10" stroke-linecap="round"/>
-  <path d="M56 60h19" stroke="#f2f5f9" stroke-width="8" stroke-linecap="round"/>
-  <path d="M56 78h14" stroke="#f2f5f9" stroke-width="8" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="bg" x1="8" y1="7" x2="56" y2="57" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#243447" />
+      <stop offset="1" stop-color="#15202b" />
+    </linearGradient>
+    <linearGradient id="ink" x1="18" y1="16" x2="46" y2="46" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f5f8ff" />
+      <stop offset="1" stop-color="#cfe0ff" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#bg)" />
+  <path d="M18 16h18.5L46 25.5V48H18Z" fill="none" stroke="url(#ink)" stroke-width="2.5" stroke-linejoin="round" />
+  <path d="M36.5 16v10.5H46" fill="none" stroke="#88b4ff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M24 27h13" fill="none" stroke="url(#ink)" stroke-width="2.5" stroke-linecap="round" opacity="0.95" />
+  <path d="M24 34h16" fill="none" stroke="url(#ink)" stroke-width="2.5" stroke-linecap="round" opacity="0.8" />
+  <path d="M24 41h10" fill="none" stroke="url(#ink)" stroke-width="2.5" stroke-linecap="round" opacity="0.65" />
+  <circle cx="43.5" cy="43.5" r="5.5" fill="none" stroke="#ffb06f" stroke-width="2.5" />
+  <circle cx="43.5" cy="43.5" r="1.7" fill="none" stroke="#ffb06f" stroke-width="1.5" opacity="0.9" />
 </svg>
