@@ -1,0 +1,25 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="iconTitle iconDesc">
+  <title id="iconTitle">Fit Foundations simple barbell logo</title>
+  <desc id="iconDesc">Very simple barbell fitness logo with a rounded square app icon.</desc>
+  <defs>
+    <linearGradient id="bgGrad" x1="60" y1="42" x2="440" y2="470" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#446F57"/>
+      <stop offset="1" stop-color="#213D2F"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="28" y="28" width="456" height="456" rx="118" fill="url(#bgGrad)"/>
+
+  <rect x="112" y="216" width="56" height="80" rx="18" fill="#F4F2EA"/>
+  <rect x="344" y="216" width="56" height="80" rx="18" fill="#F4F2EA"/>
+
+  <rect x="156" y="190" width="200" height="20" rx="10" fill="#F4F2EA"/>
+  <rect x="156" y="302" width="200" height="20" rx="10" fill="#F4F2EA"/>
+
+  <rect x="140" y="162" width="20" height="188" rx="10" fill="#F4F2EA"/>
+  <rect x="352" y="162" width="20" height="188" rx="10" fill="#F4F2EA"/>
+
+  <rect x="228" y="148" width="56" height="216" rx="18" fill="#C97A4A" opacity="0.95"/>
+  <rect x="186" y="208" width="24" height="96" rx="12" fill="#C97A4A" opacity="0.9"/>
+  <rect x="302" y="208" width="24" height="96" rx="12" fill="#C97A4A" opacity="0.9"/>
+</svg>
